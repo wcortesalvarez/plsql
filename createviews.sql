@@ -7,6 +7,7 @@ al.nombres,
 al.genero,
 al.direccion, 
 al.fecha_naci,
+-- falta adicionar este campo EDAD
 -- para establecer la edad falta ligar a una funcion,
 co.razon_social nom_colegio
 FROM not_alumnos al
